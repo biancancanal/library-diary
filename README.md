@@ -1,4 +1,6 @@
 # Project Template: React/Rails API
+Example API:
+https://api.nytimes.com/svc/books/v3/lists/current/hardcover-fiction.json?api-key=elEAxpkS4bITp6qI8ShnPszd3GJOTNQO
 
 ## Description
 
